@@ -1,1 +1,1 @@
-# LinuxQOL
+# Linux-QOL
